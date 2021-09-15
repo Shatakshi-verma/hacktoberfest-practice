@@ -168,6 +168,7 @@ Questions can be asked by raising an `Issue`.
 - [Satyadeep](https://github.com/satyaRF)
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb) 
+- [Shatakshi Verma](https://github.com/Shatakshi-verma) 
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
